@@ -3,5 +3,7 @@ Escribir " Digite el primer numero "
 Leer Num1
 Escribir " Digite el segundo numero "
 Leer Num2
-Resultado = Num1 + Num2
-Escribir " El resultado de la suma es :", Resultado
+Suma = Num1 + Num2
+Resta = Num1 - Num2
+Escribir " El resultado de la suma es :", Suma
+Escribir " El resultado de la resta es:", Resta
